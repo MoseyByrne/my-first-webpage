@@ -13,7 +13,7 @@
 
 ## Description
 
-Two webpages that show my favorite things, and my first webpage. They were all made with instructions from Epicodus and uses HTML, and CSS. This README is also part of Epicodus lesson on how to create READMEs and use Markdown.
+A webpage made with instructions from Epicodus and uses HTML, and CSS. This README is also part of Epicodus lesson on how to create READMEs and use Markdown.
 
 
 
